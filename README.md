@@ -1,8 +1,10 @@
 # java-course
 
+``` java
 System.out.println("Hello");
+```
 
-
+``` java
 public class SwapNumbers {
 
     public static void main(String[] args) {
@@ -27,3 +29,8 @@ public class SwapNumbers {
         System.out.println("Second number = " + second);
     }
 }
+```
+
+``` java
+        System.out.println("Output generated");
+```
